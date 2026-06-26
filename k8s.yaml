@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: resttemplateserver-hub
-          image: yklee2002/resttemplateserver-hub:3ac3fc237d540b67f9e80b1e3b1875ab13d8da11
+          image: yklee2002/resttemplateserver-hub:8531bc1482c3deead90a28222b007aa90bb62970
           ports:
             - containerPort: 8080
           env:
